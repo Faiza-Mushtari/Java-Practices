@@ -1,0 +1,1 @@
+This folder is already added in the SpringDemoMVC folder, so can be discared from here.
